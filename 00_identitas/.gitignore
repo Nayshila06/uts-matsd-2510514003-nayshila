@@ -1,0 +1,7 @@
+*.asv
+*.slprj
+*.mlx
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
